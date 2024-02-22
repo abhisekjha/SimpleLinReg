@@ -47,6 +47,3 @@ Contributions to improve the framework are welcome. Please ensure to follow best
 
 [MIT License](LICENSE.md)
 
-## Contact
-
-For any queries or suggestions, please reach out to [Your Contact Information].
