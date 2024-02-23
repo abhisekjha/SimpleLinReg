@@ -41,7 +41,7 @@ This framework is intended for educational purposes and serves as a starting poi
 
 ## Contributing
 
-Contributions to improve the framework are welcome. Please ensure to follow best practices for code contributions.
+Contributions to improve the framework are welcome. 
 
 ## License
 
