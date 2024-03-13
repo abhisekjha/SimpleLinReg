@@ -43,7 +43,5 @@ This framework is intended for educational purposes and serves as a starting poi
 
 Contributions to improve the framework are welcome. 
 
-## License
 
-[MIT License](LICENSE.md)
 
